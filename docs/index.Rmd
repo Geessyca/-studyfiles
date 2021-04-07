@@ -27,15 +27,12 @@ class: left, top
 #Objetivo da ciência de dados
 
 --
-.left[Usando esses fundamentos, a ciência de dados, visa a solução de problemas em diversos setores e pode gerar os mais diversos resultados, como:
-
-O produto que venderá mais
-Qual é os filmes mais recomendados para cada pessoa
-Se o cliente será inadimplente ou não
-Previsão de falhas mecânicas
-
-Entre outras diversas áreas
-]
+.left[Usando esses fundamentos, a ciência de dados, visa a solução de problemas em diversos setores e pode gerar os mais diversos resultados, como:]
+.left[O produto que venderá mais]
+.left[Qual é os filmes mais recomendados para cada pessoa[
+.left[Se o cliente será inadimplente ou não]
+.left[Previsão de falhas mecânicas]
+.left[Entre outras diversas áreas]
 ---
 class: left, top
 #Aplicações da ciência de dados
