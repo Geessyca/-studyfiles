@@ -1,13 +1,13 @@
-#Arquivos para estudos
+<h1>Arquivos para estudos</h1>
 Este repositório contém arquivos que desenvolvo a fim de melhorar meus conhecimentos em diferentes áreas relacionada a programação.
 
 <h4 align="center"> 
 	🚧  Em constante construção...  🚧
 </h4>
 
-##Ciência de Dados
+<h2>Ciência de Dados</h2>
 
-![Visão Geral da Ciência de Dados](https://geessyca.github.io/-studyfiles/)
+Visão Geral da Ciência de Dados(https://geessyca.github.io/-studyfiles/)
 
-##Autora
+<h2>Autora</h2>
 Gessyca Moreira
