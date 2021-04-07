@@ -7,7 +7,7 @@ Este repositório contém arquivos que desenvolvo a fim de melhorar meus conheci
 
 <h2>Ciência de Dados</h2>
 
-Visão Geral da Ciência de Dados(https://geessyca.github.io/-studyfiles/)
+[Visão Geral da Ciência de Dados](https://geessyca.github.io/-studyfiles/)
 
 <h2>Autora</h2>
-Gessyca Moreira
+[Gessyca Moreira](https://www.linkedin.com/in/gessyca-moreira-907041209/)
