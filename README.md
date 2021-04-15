@@ -7,7 +7,8 @@ Este repositório contém arquivos que desenvolvo a fim de melhorar meus conheci
 
 <h2>Ciência de Dados</h2>
 
-[Visão Geral da Ciência de Dados](https://geessyca.github.io/-studyfiles/)
+[Visão Geral da Ciência de Dados](https://geessyca.github.io/VisaoGeralCienciadeDados/#1)
+[Rmarkdown](https://geessyca.github.io/Rmarkdown/#1)
 
 <h2>Autora</h2>
 
