@@ -1,5 +1,10 @@
-<h1>Arquivos para estudos</h1>
+<h1 align="center">
+  🎓<br>Arquivos para estudos
+</h1>
+
+<h4 align="center">
 Este repositório contém arquivos que desenvolvo a fim de melhorar meus conhecimentos em diferentes áreas relacionada a programação.
+</h4>
 
 <h4 align="center"> 
 	🚧  Em constante construção...  🚧
@@ -11,6 +16,16 @@ Este repositório contém arquivos que desenvolvo a fim de melhorar meus conheci
 
 [Rmarkdown](https://geessyca.github.io/Rmarkdown/#1)
 
-<h2>Autora</h2>
-
-[Gessyca Moreira](https://www.linkedin.com/in/gessyca-moreira-907041209/)
+##  👩🏻‍💻 Autora<br>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/geessyca">
+        <img src="https://avatars.githubusercontent.com/u/72661229?v=4" width="100px;" alt="Icon GitHub"/><br>
+        <sub>
+          <b>Gessyca Moreira</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
